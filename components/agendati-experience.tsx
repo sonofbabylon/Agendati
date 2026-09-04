@@ -135,6 +135,7 @@ export function AgendatiExperience() {
             width={1536}
             height={1152}
             priority
+            unoptimized
           />
         </div>
       </div>
